@@ -1,0 +1,18 @@
+.my-button {
+  font-size: 2rem;
+}
+
+.App {
+  background-color: rgb(246, 246, 246);
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+}
+
+.button {
+  font-size: 3rem;
+  padding: 10px;
+  background-color: white;
+}
+.button.button--extra {
+  background: tomato;
+}
